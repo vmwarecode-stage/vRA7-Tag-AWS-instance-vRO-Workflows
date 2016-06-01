@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">3533702</entry>
+<entry key="pkg-description">See my guide for these workflows on my blog at www.vmtocloud.com</entry>
+<entry key="pkg-name">org.vmware.sdeset.vrealizeautomation.awsec2tags</entry>
+<entry key="used-plugins">AWS#1.0.0</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO vra-01a.corp.local 93257094-ea95-4c90-b9ce-d419a6281151</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO vra-01a.corp.local 93257094-ea95-4c90-b9ce-d419a6281151</entry>
+<entry key="vso-version">7.0.1.3533702</entry>
+<entry key="pkg-id">ff80808154cf7bdc0154df3144540536</entry>
+</properties>
